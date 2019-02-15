@@ -75,3 +75,4 @@ debian/files
 *.substvars
 *.debhelper.log
 *.gz
+*notMNIST_small/
