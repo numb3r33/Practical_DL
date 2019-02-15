@@ -76,3 +76,4 @@ debian/files
 *.debhelper.log
 *.gz
 *notMNIST_small/
+*cifar_data/
