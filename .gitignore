@@ -77,3 +77,4 @@ debian/files
 *.gz
 *notMNIST_small/
 *cifar_data/
+*.npz
