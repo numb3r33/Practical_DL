@@ -78,3 +78,5 @@ debian/files
 *notMNIST_small/
 *cifar_data/
 *.npz
+*.zip
+*.jpg
